@@ -4,6 +4,7 @@
 	<parent>
 	  <!-- Your own application should inherit from spring-boot-starter-parent -->
           <!-- Add this line to check jenkins automation --> 
+          <!-- Add another line to check jenkins automation --> 
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
 		<version>1.4.0.BUILD-SNAPSHOT</version>
